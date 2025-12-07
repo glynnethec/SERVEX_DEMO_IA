@@ -32,7 +32,7 @@ export default function TablaCSV() {
 
         <p className="text-gray-600 text-sm sm:text-base leading-relaxed">
           Aquí encontrarás todo el catálogo de <strong>productos de mobiliario educativo</strong> 
-          de la empresa <strong>Diversified Spaces</strong>. Los datos se encuentran organizados en 
+          de la empresa <strong>Diversified Spaces!!!</strong>. Los datos se encuentran organizados en 
           una matriz vectorial CSV, que temporalmente funciona como base de datos para alimentar 
           el modelo de inteligencia artificial. Podrás corroborar todos los productos que la empresa 
           ofrece mientras la IA analiza la información para generar insights precisos y accionables.
